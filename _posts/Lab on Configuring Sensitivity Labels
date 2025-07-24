@@ -1,0 +1,30 @@
+---
+title: "Configuring Sensitivity Labels for Information Protection"
+layout: single
+collection: labs
+permalink: /labs/sensitivity-labels/
+---
+
+## Problem Statement
+
+An organization needed to classify and protect documents according to sensitivity. This lab involved configuring and publishing Microsoft Information Protection sensitivity labels.
+
+## Tools Used
+
+- Microsoft Purview  
+- Azure Information Protection  
+- Office 365 Apps (Word, Excel)
+
+## Approach
+
+1. Defined labels such as "Confidential", "Internal", and "Public"  
+2. Applied encryption and watermarking settings to each label  
+3. Created label policies and published them to test users  
+4. Verified label application in Word and Outlook  
+5. Reviewed activity reports in Microsoft Purview
+
+## Key Lessons Learned
+
+- Creating custom label hierarchies for business needs  
+- Balancing protection with user convenience  
+- Monitoring label usage and training users on correct classification
