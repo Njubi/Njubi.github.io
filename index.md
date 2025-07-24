@@ -71,8 +71,8 @@ Jomo Kenyatta University of Agriculture and Technology (2015 – 2019)
 
 ## 📬 Contact
 - **Email:** [nicholas.m.njubi@gmail.com](mailto:nicholas.m.njubi@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- **GitHub:** [github.com/yourusername](https://github.com/Njubi)
+- **LinkedIn:** [linkedin.com/in/nicholas-njubi](https://www.linkedin.com/in/nicholas-njubi/))  
+- **GitHub:** [github.com/Njubi](https://github.com/Njubi)
 
 ---
 
