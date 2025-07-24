@@ -1,8 +1,6 @@
 title: Nicholas Njubi | Data & Cybersecurity Professional
----
 
 # 👋 Hi, I'm Nicholas Njubi  
-**Data & Cybersecurity Professional | Customer Experience Expert | Trainer**
 
 I’m passionate about transforming data into powerful insights and building secure digital ecosystems. With hands-on experience in analytics, data protection, cybersecurity operations, and customer success, I bring a blend of technical skill and stakeholder collaboration to every project.
 
