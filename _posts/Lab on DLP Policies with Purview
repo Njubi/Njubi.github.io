@@ -1,0 +1,30 @@
+---
+title: "Implementing Data Loss Prevention (DLP) Policies with Microsoft Purview"
+layout: single
+collection: labs
+permalink: /labs/purview-dlp-policy/
+---
+
+## Problem Statement
+
+Sensitive data was at risk of exposure via email, USB, and Teams sharing. The lab involved creating and testing Microsoft Purview DLP policies to prevent unauthorized data transfers within an organization.
+
+## Tools Used
+
+- Microsoft Purview Compliance Portal  
+- Microsoft 365 Security & Compliance Center  
+- Azure Active Directory
+
+## Approach
+
+1. Accessed the Microsoft Purview compliance portal  
+2. Created DLP policies to monitor and restrict content containing personal identifiers  
+3. Applied policies to Exchange, OneDrive, SharePoint, and Teams  
+4. Simulated policy violations to verify alerts and restrictions  
+5. Configured incident reports and user education pop-ups
+
+## Key Lessons Learned
+
+- How to create and scope a DLP policy across M365 services  
+- The difference between test mode and enforce mode  
+- Interpreting alerts and audit logs in the Compliance Center
