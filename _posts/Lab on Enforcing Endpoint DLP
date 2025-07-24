@@ -1,0 +1,30 @@
+---
+title: "Enforcing Endpoint DLP on Windows 10 Devices"
+layout: single
+collection: labs
+permalink: /labs/endpoint-dlp/
+---
+
+## Problem Statement
+
+Prevent data exfiltration on end-user devices using Microsoft 365 Endpoint DLP. This lab focused on applying DLP rules to block copying, printing, or uploading sensitive files on Windows 10.
+
+## Tools Used
+
+- Microsoft 365 Compliance Center  
+- Windows 10 (Azure AD-joined)  
+- Microsoft Edge & Teams
+
+## Approach
+
+1. Configured device onboarding to Microsoft Purview  
+2. Created and scoped endpoint DLP policies  
+3. Used built-in sensitive info types (e.g., National ID, emails)  
+4. Simulated real-world scenarios like USB transfers and cloud uploads  
+5. Reviewed alerts and user justifications in activity explorer
+
+## Key Lessons Learned
+
+- The power of endpoint-level control vs. cloud-only DLP  
+- Policy granularity (block, warn, audit) and user education  
+- How to test policies before enforcement in real environments
