@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Nicholas Njubi"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Photo.jpg"
   bio    : "I’m a data and cybersecurity professional passionate about transforming complex data into actionable insights and safeguarding digital ecosystems. I specialize in analytics, Data Science, and data protection."
   links:
     - label: "Website"
